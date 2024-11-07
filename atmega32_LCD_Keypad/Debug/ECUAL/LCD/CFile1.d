@@ -1,0 +1,1 @@
+ECUAL/LCD/CFile1.d ECUAL/LCD/CFile1.o: ../ECUAL/LCD/CFile1.c
