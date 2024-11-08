@@ -1,0 +1,13 @@
+DIO/DIO_function.d DIO/DIO_function.o: ../DIO/DIO_function.c \
+ ../DIO/DIO_INTERFACE.h ../DIO/STD_TYPES.h ../DIO/BIT_MATH.h \
+ ../DIO/DIO_CONFIG.h ../DIO/DIO_PRIVATE.h
+
+../DIO/DIO_INTERFACE.h:
+
+../DIO/STD_TYPES.h:
+
+../DIO/BIT_MATH.h:
+
+../DIO/DIO_CONFIG.h:
+
+../DIO/DIO_PRIVATE.h:
