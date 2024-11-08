@@ -1,0 +1,1 @@
+ECUAL/LED.d ECUAL/LED.o: ../ECUAL/LED.c
