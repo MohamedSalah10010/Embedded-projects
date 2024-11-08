@@ -1,0 +1,11 @@
+MCAL/DIO_test.d MCAL/DIO_test.o: ../MCAL/DIO_test.c \
+ ../MCAL/DIO_INTERFACE.h ../MCAL/../LIB/BIT_MATH.h \
+ ../MCAL/../LIB/STD_TYPES.h ../MCAL/DIO_REG.h
+
+../MCAL/DIO_INTERFACE.h:
+
+../MCAL/../LIB/BIT_MATH.h:
+
+../MCAL/../LIB/STD_TYPES.h:
+
+../MCAL/DIO_REG.h:
